@@ -37,6 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/object-ctor": "^0.0.x",
     "@stdlib/utils-keys": "^0.0.x"
   },
   "devDependencies": {
