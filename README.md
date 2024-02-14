@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import propertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-names@deno/mod.js';
+import propertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-names@v0.2.0-deno/mod.js';
 ```
 
 #### propertyNames( obj )
@@ -82,7 +82,7 @@ var keys = propertyNames( obj );
 
 ```javascript
 import defineProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-property@deno/mod.js';
-import propertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-names@deno/mod.js';
+import propertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-names@v0.2.0-deno/mod.js';
 
 function Foo() {
     this.beep = 'boop';
